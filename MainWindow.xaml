@@ -12,6 +12,6 @@
 
     <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
         <Button x:Name="myButton" Click="myButton_Click">Click Me</Button>
-        <local:BgLabelControl Background="Green" Label="I Love ANU CSB"/>
+        <local:BgLabelControl Background="Red" Label="2023-12-12 20191136"/>
     </StackPanel>
 </Window>
